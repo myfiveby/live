@@ -1,0 +1,8 @@
+[06-May-2012 18:30:43] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/avieylka/public_html/myfiveby/api/user/index.php on line 41
+[06-May-2012 18:30:54] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/user/index.php on line 26
+[21-May-2012 00:07:25] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'avieylka'@'localhost' (using password: NO) in /home/avieylka/public_html/myfiveby/api/fonction/fonction_connexion.php on line 11
+[21-May-2012 00:18:32] PHP Parse error:  syntax error, unexpected '=', expecting ')' in /home/avieylka/public_html/myfiveby/api/user.php on line 198
+[21-May-2012 01:35:24] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/APICall.php on line 156
+[21-May-2012 01:35:41] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/APICall.php on line 156
+[21-May-2012 01:36:55] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/APICall.php on line 157
+[21-May-2012 01:37:32] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/APICall.php on line 157

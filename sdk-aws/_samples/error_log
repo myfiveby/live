@@ -1,0 +1,9 @@
+[25-Mar-2012 23:53:42] PHP Fatal error:  Uncaught exception 'CFCredentials_Exception' with message 'No credentials were provided to AmazonS3.' in /home/avieylka/public_html/myfiveby/sdk-aws/sdk.class.php:418
+Stack trace:
+#0 /home/avieylka/public_html/myfiveby/sdk-aws/services/s3.class.php(449): CFRuntime->__construct(Array)
+#1 /home/avieylka/public_html/myfiveby/sdk-aws/_samples/cli-s3_get_urls_for_uploads.php(54): AmazonS3->__construct()
+#2 {main}
+  thrown in /home/avieylka/public_html/myfiveby/sdk-aws/sdk.class.php on line 418
+[25-Mar-2012 23:54:45] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/avieylka/public_html/myfiveby/sdk-aws/lib/requestcore/requestcore.class.php on line 817
+[25-Mar-2012 23:54:47] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/avieylka/public_html/myfiveby/sdk-aws/lib/requestcore/requestcore.class.php on line 817
+[25-Mar-2012 23:54:47] PHP Warning:  set_time_limit() has been disabled for security reasons in /home/avieylka/public_html/myfiveby/sdk-aws/lib/requestcore/requestcore.class.php on line 850

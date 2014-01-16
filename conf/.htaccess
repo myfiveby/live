@@ -1,0 +1,8 @@
+AuthUserFile /home/todoviaj/www/_phpmyadmin/.htpasswd
+AuthGroupFile /dev/null
+AuthName cototec
+AuthType Basic
+
+<limit GET>
+require valid-user
+</Limit>

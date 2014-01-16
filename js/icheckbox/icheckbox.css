@@ -1,0 +1,46 @@
+	.iCheckbox_container {
+		height:27px;
+		width:94px;
+		position: relative;
+		overflow: hidden;
+	}
+	.iCheckbox_switch {
+		height:27px;
+		width:94px;
+		background-image:url(images/iphone_switch.png); /* your actual slider image */
+		background-repeat:none;
+		background-position:0px;
+	}
+	.iCheckbox_checkbox { /* this is kinda moot since it gets hidden, but here to let you know it exists */
+	}
+	.iCheckbox_two_container {
+		height:27px;
+		width:94px;
+		position: relative;
+		overflow: hidden;
+	}
+	.iCheckbox_two_switch {
+		height:16px;
+		width:36px;
+		background-image:url(images/bpm-lozenge.png); /* your actual slider image */
+		background-repeat:none;
+		background-position:0px;
+	}
+	.iCheckbox_two_checkbox { /* this is kinda moot since it gets hidden, but here to let you know it exists */
+	}
+	/*
+	* below are styles to just pretty up the demo page... they have nothing to do with iCheckbox.
+	*/
+	.body_conts{
+		width:800px;
+		margin:0px;
+		margin-left:auto;
+		margin-right:auto;
+		font-family:Arial, Helvetica, sans-serif;
+		font-size:12px;
+	}
+	.magic_pink {
+		background-color: #FF00FF;
+		padding: 5px;
+		margin:0px;
+	}

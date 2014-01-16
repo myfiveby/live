@@ -1,0 +1,4 @@
+Options All -Indexes
+IndexIgnore *
+RewriteEngine On 
+RewriteRule ^([a-zA-Z0-9\-_]+)$  index.php?id=$1 [L]

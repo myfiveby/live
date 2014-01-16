@@ -1,0 +1,7 @@
+[06-May-2012 18:30:43] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/avieylka/public_html/myfiveby/api/user/index.php on line 41
+[06-May-2012 18:30:54] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/user/index.php on line 26
+[20-May-2012 23:38:50] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/user.php on line 141
+[20-May-2012 23:38:51] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/user.php on line 141
+[20-May-2012 23:39:37] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/user.php on line 141
+[20-May-2012 23:39:39] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/user.php on line 141
+[21-May-2012 01:13:19] PHP Fatal error:  Call to undefined function runStandardQuery() in /home/avieylka/public_html/myfiveby/api/APICall.php on line 116

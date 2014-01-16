@@ -1,0 +1,429 @@
+[30-Apr-2012 23:33:14] PHP Warning:  date() expects at least 1 parameter, 0 given in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 5
+[30-Apr-2012 23:33:28] PHP Warning:  mktime() expects parameter 1 to be long, string given in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 5
+[30-Apr-2012 23:38:29] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 12
+[30-Apr-2012 23:38:39] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 12
+[30-Apr-2012 23:38:49] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 12
+[30-Apr-2012 23:38:53] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 12
+[30-Apr-2012 23:39:06] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting ',' or ';' in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 12
+[30-Apr-2012 23:39:22] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting ',' or ';' in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 14
+[30-Apr-2012 23:39:30] PHP Parse error:  syntax error, unexpected T_FOREACH, expecting ',' or ';' in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 14
+[30-Apr-2012 23:39:39] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 14
+[30-Apr-2012 23:39:51] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 14
+[30-Apr-2012 23:40:14] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:40:23] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:40:31] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:40:41] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:41:58] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:42:04] PHP Parse error:  syntax error, unexpected ';' in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 10
+[30-Apr-2012 23:42:37] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:42:46] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:43:06] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:43:25] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:45:05] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:45:15] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:49:47] PHP Warning:  Illegal offset type in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[30-Apr-2012 23:49:58] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:51:09] PHP Parse error:  syntax error, unexpected T_DNUMBER, expecting ',' or ';' in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:51:35] PHP Parse error:  syntax error, unexpected T_DNUMBER, expecting ',' or ';' in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:51:46] PHP Parse error:  syntax error, unexpected T_DNUMBER, expecting ',' or ';' in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:51:48] PHP Parse error:  syntax error, unexpected T_DNUMBER, expecting ',' or ';' in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 17
+[30-Apr-2012 23:56:52] PHP Fatal error:  Cannot use object of type stdClass as array in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 15
+[30-Apr-2012 23:57:00] PHP Fatal error:  Cannot use object of type stdClass as array in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 15
+[01-May-2012 00:15:22] PHP Warning:  mysqli_query($connexion,): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 00:15:22] PHP Warning:  mysql_error(): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 00:15:22] PHP Warning:  mysql_close(): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 00:15:22] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 25
+[01-May-2012 00:15:22] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 28
+[01-May-2012 00:15:22] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 39
+[01-May-2012 00:15:22] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 00:15:22] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 00:15:22] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 00:15:22] PHP Warning:  mysqli_query($connexion,): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 00:15:22] PHP Warning:  mysql_error(): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 00:15:22] PHP Warning:  mysql_close(): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 00:16:53] PHP Warning:  mysqli_query($connexion,): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 00:16:53] PHP Warning:  mysql_error(): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 00:16:53] PHP Warning:  mysql_close(): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 00:16:53] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 25
+[01-May-2012 00:16:53] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 28
+[01-May-2012 00:16:53] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 39
+[01-May-2012 00:16:53] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 00:16:53] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 00:16:53] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 00:16:53] PHP Warning:  mysqli_query($connexion,): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 00:16:53] PHP Warning:  mysql_error(): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 00:16:53] PHP Warning:  mysql_close(): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 00:18:40] PHP Warning:  mysqli_query($connexion,): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 00:18:40] PHP Warning:  mysql_error(): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 00:18:40] PHP Warning:  mysql_close(): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 00:18:40] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 22
+[01-May-2012 00:18:40] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 25
+[01-May-2012 00:18:40] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 36
+[01-May-2012 00:18:40] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 00:18:40] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 00:18:40] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 00:18:40] PHP Warning:  mysqli_query($connexion,): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 00:18:40] PHP Warning:  mysql_error(): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 00:18:40] PHP Warning:  mysql_close(): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 00:18:52] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 00:18:52] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 00:18:52] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 00:18:52] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 23
+[01-May-2012 00:18:52] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 26
+[01-May-2012 00:18:52] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 37
+[01-May-2012 00:18:52] PHP Warning:  mysqli_query($connexion,): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 00:18:52] PHP Warning:  mysql_error(): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 00:18:52] PHP Warning:  mysql_close(): 6 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 00:18:52] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 00:18:52] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 00:18:52] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 00:19:33] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 00:19:33] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 00:19:33] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 00:19:33] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 23
+[01-May-2012 00:19:33] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 26
+[01-May-2012 00:19:33] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 00:19:33] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 00:19:33] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 15:37:36] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 42
+[01-May-2012 15:37:36] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'avieylka'@'localhost' (using password: NO) in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 44
+[01-May-2012 15:37:36] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 44
+[01-May-2012 15:37:36] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 15:37:36] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 15:37:36] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 15:37:36] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 53
+[01-May-2012 15:37:36] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'avieylka'@'localhost' (using password: NO) in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 54
+[01-May-2012 15:37:36] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 54
+[01-May-2012 15:37:36] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 15:37:36] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 15:37:36] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 15:37:36] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 25
+[01-May-2012 15:37:36] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 28
+[01-May-2012 15:37:36] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 15:37:36] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 15:37:36] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 15:37:36] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 42
+[01-May-2012 15:37:36] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'avieylka'@'localhost' (using password: NO) in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 44
+[01-May-2012 15:37:36] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 44
+[01-May-2012 15:37:36] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 15:37:36] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 15:37:36] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 15:37:36] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 53
+[01-May-2012 15:37:36] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'avieylka'@'localhost' (using password: NO) in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 54
+[01-May-2012 15:37:36] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 54
+[01-May-2012 15:38:13] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 15:38:13] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 15:38:13] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 15:38:13] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 53
+[01-May-2012 15:38:13] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 15:38:13] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 15:38:13] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 15:38:13] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 25
+[01-May-2012 15:38:13] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 28
+[01-May-2012 15:38:13] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 15:38:13] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 15:38:13] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 15:38:13] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 15:38:13] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 15:38:13] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 15:38:13] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 53
+[01-May-2012 20:12:57] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 45
+[01-May-2012 20:12:57] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'avieylka'@'localhost' (using password: NO) in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 48
+[01-May-2012 20:12:57] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 48
+[01-May-2012 20:12:57] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:12:57] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:12:57] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:12:57] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'avieylka'@'localhost' (using password: NO) in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 58
+[01-May-2012 20:12:57] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 58
+[01-May-2012 20:12:57] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:12:57] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:12:57] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:12:57] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 29
+[01-May-2012 20:12:57] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 32
+[01-May-2012 20:12:57] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:12:57] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:12:57] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:12:57] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 45
+[01-May-2012 20:12:57] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'avieylka'@'localhost' (using password: NO) in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 48
+[01-May-2012 20:12:57] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 48
+[01-May-2012 20:12:57] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:12:57] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:12:57] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:12:57] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'avieylka'@'localhost' (using password: NO) in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 58
+[01-May-2012 20:12:57] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 58
+[01-May-2012 20:13:37] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 45
+[01-May-2012 20:13:37] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:13:37] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:13:37] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:13:37] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:13:37] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:13:37] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:13:37] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'avieylka'@'localhost' (using password: NO) in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 58
+[01-May-2012 20:13:37] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 58
+[01-May-2012 20:13:37] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:13:37] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:13:37] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:13:37] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 29
+[01-May-2012 20:13:37] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 32
+[01-May-2012 20:13:37] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:13:37] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:13:37] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:13:37] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 45
+[01-May-2012 20:13:37] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:13:37] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:13:37] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:13:37] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:13:37] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:13:37] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:13:37] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'avieylka'@'localhost' (using password: NO) in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 58
+[01-May-2012 20:13:37] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 58
+[01-May-2012 20:17:25] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 52
+[01-May-2012 20:17:25] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:17:25] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:17:25] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:17:25] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 29
+[01-May-2012 20:17:25] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 33
+[01-May-2012 20:17:25] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:17:25] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:17:25] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:17:25] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 52
+[01-May-2012 20:18:02] PHP Warning:  mysqli_query($connexion,): supplied argument is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:18:02] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:18:02] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:18:58] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 54
+[01-May-2012 20:18:58] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:18:58] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:18:58] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:18:58] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 29
+[01-May-2012 20:18:58] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 33
+[01-May-2012 20:18:58] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:18:58] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:18:58] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:18:58] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 54
+[01-May-2012 20:19:35] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 54
+[01-May-2012 20:19:35] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:19:35] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:19:35] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:19:35] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 29
+[01-May-2012 20:19:35] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 33
+[01-May-2012 20:19:35] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:19:35] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:19:35] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:19:35] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 54
+[01-May-2012 20:21:43] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 54
+[01-May-2012 20:21:43] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:21:43] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:21:43] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:21:43] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 29
+[01-May-2012 20:21:43] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 33
+[01-May-2012 20:21:43] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:21:43] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:21:43] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 20:21:43] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 54
+[01-May-2012 20:22:16] PHP Warning:  mysqli_query($connexion,): supplied argument is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 20:22:16] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 20:22:16] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:40:11] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:40:11] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:40:11] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:40:11] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 67
+[01-May-2012 21:40:11] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:40:11] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:40:11] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:40:11] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 33
+[01-May-2012 21:40:11] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 37
+[01-May-2012 21:40:11] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 58
+[01-May-2012 21:40:11] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:40:11] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:40:11] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:40:11] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:40:11] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:40:11] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:40:11] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 67
+[01-May-2012 21:40:11] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: Access denied for user 'avieylka'@'localhost' (using password: NO) in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 68
+[01-May-2012 21:40:11] PHP Warning:  mysqli_query($connexion,) [<a href='function.mysql-query'>function.mysql-query</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 68
+[01-May-2012 21:57:13] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 57
+[01-May-2012 21:57:13] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:57:13] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:57:13] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:57:13] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:57:13] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:57:13] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:57:13] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 28
+[01-May-2012 21:57:13] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 32
+[01-May-2012 21:57:13] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:57:13] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:57:13] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:57:13] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 44
+[01-May-2012 21:57:13] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:57:13] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:57:13] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:57:13] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 57
+[01-May-2012 21:57:13] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:57:13] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:57:13] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:57:13] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:57:13] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:57:13] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:57:49] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:57:49] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:57:49] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:57:49] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 28
+[01-May-2012 21:57:49] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 32
+[01-May-2012 21:57:49] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:57:49] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:57:49] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:57:49] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 44
+[01-May-2012 21:57:49] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 57
+[01-May-2012 21:57:49] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:57:49] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:57:49] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:57:49] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:57:49] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:57:49] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:58:08] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:58:08] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:58:08] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:58:08] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 28
+[01-May-2012 21:58:08] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 32
+[01-May-2012 21:58:08] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:58:08] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:58:08] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:58:08] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 44
+[01-May-2012 21:58:08] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 57
+[01-May-2012 21:58:08] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:58:08] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:58:08] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:58:08] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:58:08] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:58:08] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:58:38] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:58:38] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:58:38] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:58:38] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 28
+[01-May-2012 21:58:38] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 32
+[01-May-2012 21:58:38] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:58:38] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:58:38] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:58:38] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 44
+[01-May-2012 21:58:38] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 57
+[01-May-2012 21:58:38] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:58:38] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:58:38] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:58:38] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:58:38] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:58:38] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:58:44] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:58:44] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:58:44] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:58:44] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 28
+[01-May-2012 21:58:44] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 32
+[01-May-2012 21:58:44] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:58:44] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:58:44] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:58:44] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 44
+[01-May-2012 21:58:44] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 57
+[01-May-2012 21:58:44] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:58:44] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:58:44] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 21:58:44] PHP Warning:  mysqli_query($connexion,): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 21:58:44] PHP Warning:  mysql_error(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 21:58:44] PHP Warning:  mysql_close(): 4 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 22:23:02] PHP Warning:  mysqli_insert_id($connexion)() [<a href='function.mysql-insert-id'>function.mysql-insert-id</a>]: A link to the server could not be established in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 57
+[01-May-2012 22:23:02] PHP Warning:  mysqli_query($connexion,): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 22:23:02] PHP Warning:  mysql_error(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 22:23:02] PHP Warning:  mysql_close(): 5 is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 23:26:29] PHP Warning:  mysqli_query($connexion,): supplied argument is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 23:26:29] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 23:26:29] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[01-May-2012 23:26:29] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/tw_connection/action_save_tw.php on line 14
+[01-May-2012 23:26:29] PHP Warning:  mysqli_query($connexion,): supplied argument is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 7
+[01-May-2012 23:26:29] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 14
+[01-May-2012 23:26:29] PHP Warning:  mysql_close(): supplied argument is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/fonction/fonction_requete.php on line 19
+[10-May-2012 12:21:03] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[10-May-2012 12:21:03] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[10-May-2012 20:13:14] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[10-May-2012 20:13:14] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[10-May-2012 20:13:14] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[11-May-2012 02:25:23] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[11-May-2012 02:25:23] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[11-May-2012 02:25:23] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[12-May-2012 15:55:04] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[12-May-2012 15:55:04] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[12-May-2012 16:54:04] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[12-May-2012 16:54:04] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[12-May-2012 22:08:03] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 503 Service Unavailable
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[12-May-2012 22:08:03] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[13-May-2012 23:33:04] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[13-May-2012 23:33:04] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[14-May-2012 08:00:03] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 503 Service Unavailable
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[14-May-2012 08:00:03] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[16-May-2012 19:29:13] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[16-May-2012 19:29:13] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[16-May-2012 19:29:13] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[16-May-2012 20:55:17] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection timed out in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[16-May-2012 20:55:17] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[16-May-2012 20:57:36] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[16-May-2012 20:57:36] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[16-May-2012 20:59:18] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[16-May-2012 20:59:18] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[16-May-2012 20:59:18] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[16-May-2012 21:02:19] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: Connection timed out in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[16-May-2012 21:02:19] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[16-May-2012 21:03:14] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[16-May-2012 21:03:14] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[16-May-2012 21:05:07] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[16-May-2012 21:05:07] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[16-May-2012 21:05:07] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[16-May-2012 21:06:46] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[16-May-2012 21:06:46] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[18-May-2012 06:29:02] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[18-May-2012 06:29:02] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[18-May-2012 22:38:01] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[18-May-2012 22:38:01] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[20-May-2012 03:22:04] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 503 Service Unavailable
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[20-May-2012 03:22:04] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[20-May-2012 07:34:02] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[20-May-2012 07:34:02] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[20-May-2012 09:51:02] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[20-May-2012 09:51:02] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[20-May-2012 14:37:06] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[20-May-2012 14:37:06] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[21-May-2012 05:54:02] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 500 Internal Server Error
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[21-May-2012 05:54:02] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[22-May-2012 20:13:25] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[22-May-2012 20:13:25] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[22-May-2012 20:13:25] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[23-May-2012 04:40:22] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[23-May-2012 04:40:22] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[23-May-2012 04:40:22] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[23-May-2012 04:43:04] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed!  in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[23-May-2012 04:43:04] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[23-May-2012 10:16:04] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[23-May-2012 10:16:04] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[23-May-2012 12:45:03] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[23-May-2012 12:45:03] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[25-May-2012 06:51:07] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[25-May-2012 06:51:07] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: Name or service not known in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[25-May-2012 06:51:07] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[25-May-2012 06:54:16] PHP Warning:  file_get_contents() [<a href='function.file-get-contents'>function.file-get-contents</a>]: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[25-May-2012 06:54:16] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: php_network_getaddresses: getaddrinfo failed: Temporary failure in name resolution in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[25-May-2012 06:54:16] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18
+[26-May-2012 13:00:04] PHP Warning:  file_get_contents(http://search.twitter.com/search.json?q=%235by&amp;include_entities=false&amp;rpp=100&amp;result_type=recent) [<a href='function.file-get-contents'>function.file-get-contents</a>]: failed to open stream: HTTP request failed! HTTP/1.0 504 Gateway Timeout
+ in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 13
+[26-May-2012 13:00:04] PHP Warning:  Invalid argument supplied for foreach() in /home/avieylka/public_html/myfiveby/tw_connection/tw_spider_my5.php on line 18

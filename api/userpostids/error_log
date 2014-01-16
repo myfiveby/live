@@ -1,0 +1,2 @@
+[06-May-2012 18:30:43] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/avieylka/public_html/myfiveby/api/user/index.php on line 41
+[06-May-2012 18:30:54] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/user/index.php on line 26

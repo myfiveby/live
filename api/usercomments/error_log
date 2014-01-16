@@ -1,0 +1,13 @@
+[06-May-2012 18:30:43] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/avieylka/public_html/myfiveby/api/user/index.php on line 41
+[06-May-2012 18:30:54] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/user/index.php on line 26
+[18-May-2012 02:33:00] PHP Parse error:  syntax error, unexpected T_VARIABLE in /home/avieylka/public_html/myfiveby/api/usercomments/index.php on line 25
+[18-May-2012 02:33:24] PHP Parse error:  syntax error, unexpected '&', expecting T_STRING or T_VARIABLE or '$' in /home/avieylka/public_html/myfiveby/api/usercomments/index.php on line 35
+[18-May-2012 02:33:55] PHP Parse error:  syntax error, unexpected '&' in /home/avieylka/public_html/myfiveby/api/usercomments/index.php on line 37
+[18-May-2012 02:34:08] PHP Parse error:  syntax error, unexpected T_ARRAY, expecting T_STRING or T_VARIABLE or '$' in /home/avieylka/public_html/myfiveby/api/usercomments/index.php on line 37
+[18-May-2012 02:35:08] PHP Parse error:  syntax error, unexpected '&' in /home/avieylka/public_html/myfiveby/api/usercomments/index.php on line 40
+[18-May-2012 22:30:34] PHP Parse error:  syntax error, unexpected T_VARIABLE, expecting ']' in /home/avieylka/public_html/myfiveby/api/usercomments/index.php on line 38
+[20-May-2012 18:51:31] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'avieylka'@'localhost' (using password: NO) in /home/avieylka/public_html/myfiveby/api/fonction/fonction_connexion.php on line 11
+[20-May-2012 19:36:54] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in /home/avieylka/public_html/myfiveby/api/user.php on line 24
+[20-May-2012 19:37:24] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in /home/avieylka/public_html/myfiveby/api/user.php on line 24
+[20-May-2012 23:52:45] PHP Parse error:  syntax error, unexpected '.', expecting ',' or ';' in /home/avieylka/public_html/myfiveby/api/user.php on line 220
+[21-May-2012 01:12:21] PHP Fatal error:  Call to undefined function runCommentsQuery() in /home/avieylka/public_html/myfiveby/api/APICall.php on line 111

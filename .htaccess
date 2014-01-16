@@ -1,0 +1,22 @@
+Options All -Indexes +FollowSymlinks
+IndexIgnore *
+RewriteEngine On
+RewriteRule   ^about$ /pages.php?p=1
+RewriteRule   ^team$ /pages.php?p=11
+RewriteRule   ^brands$ /pages.php?p=7
+RewriteRule   ^resources$ /pages.php?p=15
+RewriteRule   ^press$ /pages.php?p=16
+RewriteRule   ^privacy$ /pages.php?p=10
+RewriteRule   ^terms$ /pages.php?p=9
+RewriteRule   ^content$ /pages.php?p=17
+
+RewriteEngine On
+RewriteCond %{HTTPS} =on
+RewriteRule (.*) http://myfiveby.com
+
+RewriteRule ^([a-zA-Z0-9\-_]+)$  index.php?u=$1 [L]
+
+RewriteRule ^BAK/$  /bak/index.php
+
+ErrorDocument 404 http://myfiveby.com/13444606501221
+AddType x-httpd-php53 .php

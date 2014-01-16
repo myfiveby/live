@@ -1,0 +1,1 @@
+a:3:{s:3:"url";s:95:"http://www.google.com/reader/view/feed/http%3A//larusajoropera.blogspot.com/feeds/posts/default";s:8:"feed_url";s:42:"http://feeds.feedburner.com/LaRusaJoropera";s:5:"build";s:14:"20111015034325";}

@@ -1,0 +1,20 @@
+[29-Apr-2012 19:15:49] PHP Parse error:  syntax error, unexpected T_IF, expecting ',' or ';' in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 20
+[29-Apr-2012 19:17:04] PHP Warning:  Missing argument 2 for Requete(), called in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 18 and defined in /home/avieylka/public_html/myfiveby/api/fonction/fonction_requete.php on line 5
+[29-Apr-2012 19:17:04] PHP Warning:  mysqli_query($connexion,): supplied argument is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/api/fonction/fonction_requete.php on line 7
+[29-Apr-2012 19:17:04] PHP Warning:  mysql_error(): supplied argument is not a valid MySQL-Link resource in /home/avieylka/public_html/myfiveby/api/fonction/fonction_requete.php on line 12
+[29-Apr-2012 19:17:04] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 21
+[29-Apr-2012 19:18:54] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 21
+[29-Apr-2012 19:19:38] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 21
+[29-Apr-2012 19:19:42] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 21
+[29-Apr-2012 19:19:43] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 21
+[29-Apr-2012 19:24:01] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 21
+[29-Apr-2012 19:25:10] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 21
+[29-Apr-2012 20:37:02] PHP Parse error:  syntax error, unexpected ')', expecting ']' in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 47
+[29-Apr-2012 21:20:31] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 20
+[29-Apr-2012 21:20:31] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 22
+[29-Apr-2012 21:20:31] PHP Warning:  mysqli_num_rows(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 24
+[29-Apr-2012 23:18:13] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 40
+[30-Apr-2012 00:02:34] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 40
+[30-Apr-2012 00:03:11] PHP Warning:  json_decode() expects parameter 1 to be string, array given in /home/avieylka/public_html/myfiveby/api/threads/index.php on line 40
+[20-May-2012 23:36:47] PHP Warning:  mysql_pconnect() [<a href='function.mysql-pconnect'>function.mysql-pconnect</a>]: Access denied for user 'avieylka'@'localhost' (using password: NO) in /home/avieylka/public_html/myfiveby/api/fonction/fonction_connexion.php on line 11
+[20-May-2012 23:37:36] PHP Warning:  mysqli_fetch_array(): supplied argument is not a valid MySQL result resource in /home/avieylka/public_html/myfiveby/api/user.php on line 183
